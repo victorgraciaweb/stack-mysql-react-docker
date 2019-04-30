@@ -25,7 +25,7 @@ $ docker-compose up
 
 ##### Mysql connection
 ```sh
-$ Port: 3306
-$ User: test
-$ Password: test
+Port: 3306
+User: test
+Password: test
 ```
